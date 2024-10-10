@@ -75,14 +75,23 @@ The binary search tree allows the program to efficiently narrow down possible an
 
 Functions
 create_game_tree()
+
 This function constructs the binary search tree used in the game. It initializes the tree with questions and answers and returns the root of the tree.
+
 play20game()
+
 This function plays a round of the game by prompting the user with yes/no questions based on the game tree.
+
 play_game()
+
 This is the main function that asks the user the questions and processes their answers to make a guess.
+
 insertNode()
+
 This function inserts a node into the binary search tree, either as a question or a guess.
+
 Future Enhancements
+
 Potential improvements to the game:
 
 Allow the user to add new questions and guesses to the tree if the game fails to guess correctly.
