@@ -1,6 +1,6 @@
 # twentyquestions
-A mini program using C that models the 20 questions game 
-To run the program on VSCode or Terminal
+A mini program using C that models the 20 questions game\n
+To run the program on VSCode or Terminal \n
 Compile the program using command 
 
 # gcc twenty.c bst.c 
