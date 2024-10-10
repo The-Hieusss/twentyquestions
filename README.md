@@ -1,5 +1,6 @@
 # 20 Questions Game - Binary Search Tree (BST) Implementation
 Overview
+
 This project implements a simple "20 Questions" game using a Binary Search Tree (BST). The game allows the user to think of a fruit or vegetable, and the program attempts to guess what they are thinking of by asking a series of yes/no questions. The game tree is pre-defined, consisting of questions and guesses for various fruits and vegetables.
 
 **How It Works**
