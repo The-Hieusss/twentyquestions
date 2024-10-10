@@ -87,4 +87,4 @@ This project is open-source and free to use or modify.
 
 Author
 
-This implementation of the 20 Questions game was written in C for educational purposes.
+This implementation of the 20 Questions game was written in C for fun
