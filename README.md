@@ -53,16 +53,22 @@ After compiling, run the program with:
 The game tree is manually constructed using a series of insertNode calls, which define the questions and answers. Here's a sample of the questions and answers:
 
 Root Question: "Does it grow underground?"
+
 Left Subtree (Yes):
+
 "Is it long in shape?"
 "Is it orange in color?" -> Guess: "It's a carrot!"
 Guess: "It's a parsnip!"
+
 "Is it red in color?" -> Guess: "It's a radish!"
 Guess: "It's a potato!"
+
 Right Subtree (No):
 "Does it grow on a tree?"
+
 "Is it red in color?" -> Guess: "It's an apple!" / "It's a peach!"
 "Is it red in color?" -> Guess: "It's a tomato!" / "It's a pea!"
+
 The binary search tree allows the program to efficiently narrow down possible answers based on the user's yes/no responses.
 
 Functions
